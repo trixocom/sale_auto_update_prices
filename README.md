@@ -1,6 +1,6 @@
 # Sale Auto Update Prices
 
-Módulo de Odoo 18 EE que actualiza automáticamente los precios de las líneas de venta cuando se cambia la cantidad.
+Módulo que actualiza automáticamente los precios de las líneas de venta cuando se cambia la cantidad.
 
 ## Descripción
 
